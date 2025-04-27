@@ -1,0 +1,40 @@
+{
+  "patients": [
+    {
+      "name": "Piyal",
+      "age": "24",
+      "status": "Inactive"
+    },
+    {
+      "name": "nimal",
+      "age": "26",
+      "status": "Active"
+    },
+    {
+      "name": "Sajana  ",
+      "age": "25",
+      "status": "active"
+    },
+    {
+      "name": "Lakshan",
+      "age": "26",
+      "status": "inactive"
+    },
+    {
+      "name": "John",
+      "age": "24",
+      "status": "active"
+    },
+    {
+      "name": "Peter",
+      "age": "24",
+      "status": "active"
+    },
+    {
+      "id": "92f1",
+      "name": "sunil",
+      "age": "78",
+      "status": "Active"
+    }
+  ]
+}
